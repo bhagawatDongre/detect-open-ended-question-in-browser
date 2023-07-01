@@ -1,0 +1,402 @@
+[
+    {
+        "sentences": "Why do you like the bands/performers that you like?",
+        "label": 1
+    },
+    {
+        "sentences": "What was your worst travel experience?",
+        "label": 1
+    },
+    {
+        "sentences": "What was the most important chance encounter you’ve had?",
+        "label": 1
+    },
+    {
+        "sentences": "What is the process for making your favorite dish?",
+        "label": 1
+    },
+    {
+        "sentences": "What is a good life?",
+        "label": 1
+    },
+    {
+        "sentences": "How did going to school shape you as a person?",
+        "label": 1
+    },
+    {
+        "sentences": "How important do you think self-improvement is?",
+        "label": 1
+    },
+    {
+        "sentences": "What will the future of war look like?",
+        "label": 1
+    },
+    {
+        "sentences": "What strategies do you use to make big decisions?",
+        "label": 1
+    },
+    {
+        "sentences": "What are some of your plans for the future?",
+        "label": 1
+    },
+    {
+        "sentences": "How would you explain the idea of justice to an alien?",
+        "label": 1
+    },
+    {
+        "sentences": "Why does happiness come easily to some but not others?",
+        "label": 1
+    },
+    {
+        "sentences": "What policies could the government implement to improve people’s health?",
+        "label": 1
+    },
+    {
+        "sentences": "What was the scariest dream you’ve had?",
+        "label": 1
+    },
+    {
+        "sentences": "What life hacks have you found to be particularly effective?",
+        "label": 1
+    },
+    {
+        "sentences": "If you could design a reality TV show, what would it be like?",
+        "label": 1
+    },
+    {
+        "sentences": "What combinations of flavors do you like, and why do they taste so good?",
+        "label": 1
+    },
+    {
+        "sentences": "Why do people laugh?",
+        "label": 1
+    },
+    {
+        "sentences": "How have standards of beauty changed in your lifetime?",
+        "label": 1
+    },
+    {
+        "sentences": "What is your best work or school story?",
+        "label": 1
+    },
+    {
+        "sentences": "What is the most calming image you can conjure up in your mind?",
+        "label": 1
+    },
+    {
+        "sentences": "Why do some words sound funny to us?",
+        "label": 1
+    },
+    {
+        "sentences": "What are the best and worst things about your favorite restaurant?",
+        "label": 1
+    },
+    {
+        "sentences": "How would your country change if children were allowed to vote?",
+        "label": 1
+    },
+    {
+        "sentences": "What experiments would you like to run if time and money weren’t an issue?",
+        "label": 1
+    },
+    {
+        "sentences": "How would the world change if some people could use magic spells, and some people could not?",
+        "label": 1
+    },
+    {
+        "sentences": "How could your boss/teacher do their job better?",
+        "label": 1
+    },
+    {
+        "sentences": "Why is it so hard to learn from our mistakes?",
+        "label": 1
+    },
+    {
+        "sentences": "What is the reasoning behind your most controversial opinion?",
+        "label": 1
+    },
+    {
+        "sentences": "How do you usually celebrate some of the major holidays?",
+        "label": 1
+    },
+    {
+        "sentences": "What valuable lessons should we learn from history?",
+        "label": 1
+    },
+    {
+        "sentences": "How has photography changed the world?",
+        "label": 1
+    },
+    {
+        "sentences": "How do your values differ from others?",
+        "label": 1
+    },
+    {
+        "sentences": "Why do humans build monumental structures?",
+        "label": 1
+    },
+    {
+        "sentences": "How do you wish your country would change?",
+        "label": 1
+    },
+    {
+        "sentences": "What completely baseless conspiracy would you like to start?",
+        "label": 1
+    },
+    {
+        "sentences": "How would you tweak the Olympics to make them even more enjoyable?",
+        "label": 1
+    },
+    {
+        "sentences": "How did the most pivotal moments of your childhood change you?",
+        "label": 1
+    },
+    {
+        "sentences": "What social situations do you dread?",
+        "label": 1
+    },
+    {
+        "sentences": "How has coffee shaped the course of human history?",
+        "label": 1
+    },
+    {
+        "sentences": "What is your routine for an average weekday?",
+        "label": 1
+    },
+    {
+        "sentences": "What does the media do well, and what do they do poorly in their service to the public?",
+        "label": 1
+    },
+    {
+        "sentences": "What happened in the funniest YouTube video you’ve seen?",
+        "label": 1
+    },
+    {
+        "sentences": "Why do some people prefer cats, some prefer dogs, and some dislike both?",
+        "label": 1
+    },
+    {
+        "sentences": "What’s the story behind how you met your best friend?",
+        "label": 1
+    },
+    {
+        "sentences": "When does scientific research become unethical?",
+        "label": 1
+    },
+    {
+        "sentences": "What would happen during the best day imaginable?",
+        "label": 1
+    },
+    {
+        "sentences": "What makes a song catchy?",
+        "label": 1
+    },
+    {
+        "sentences": "What’s the worst work mistake you’ve made?",
+        "label": 1
+    },
+    {
+        "sentences": "What would your perfect house look like?",
+        "label": 1
+    },
+    {
+        "sentences": "What questions can you ask to learn the most about a person?",
+        "label": 1
+    },
+    {
+        "sentences": "Why do people like watching movies that scare them or make them sad?",
+        "label": 1
+    },
+    {
+        "sentences": "What makes your favorite place you’ve been better than all the other places you’ve been to?",
+        "label": 1
+    },
+    {
+        "sentences": "What would your utopia look like?",
+        "label": 1
+    },
+    {
+        "sentences": "How would you prepare for a zombie apocalypse?",
+        "label": 1
+    },
+    {
+        "sentences": "How do you think genetic engineering will change the world in the future?",
+        "label": 1
+    },
+    {
+        "sentences": "What is the plot of your favorite movie or book?",
+        "label": 1
+    },
+    {
+        "sentences": "How should governments fix widening income gaps in countries that have them?",
+        "label": 1
+    },
+    {
+        "sentences": "Why are games fun?",
+        "label": 1
+    },
+    {
+        "sentences": "When was a time that politeness or good manners have gotten you into trouble?",
+        "label": 1
+    },
+    {
+        "sentences": "What would your perfect vacation be like?",
+        "label": 1
+    },
+    {
+        "sentences": "How would society change if we discovered that ghosts actually exist?",
+        "label": 1
+    },
+    {
+        "sentences": "What is art?",
+        "label": 1
+    },
+    {
+        "sentences": "What would be the effects of the internet shutting down?",
+        "label": 1
+    },
+    {
+        "sentences": "How did you come to like some of the hobbies you enjoy?",
+        "label": 1
+    },
+    {
+        "sentences": "What is your favorite memory related to a holiday?",
+        "label": 1
+    },
+    {
+        "sentences": "What makes you look up to your heroes?",
+        "label": 1
+    },
+    {
+        "sentences": "What would your ideal partner be like?",
+        "label": 1
+    },
+    {
+        "sentences": "How would the world change if suddenly everyone could read each other’s thoughts?",
+        "label": 1
+    },
+    {
+        "sentences": "What’s the weirdest internet rabbit hole you’ve been down?",
+        "label": 1
+    },
+    {
+        "sentences": "What are the conditions for something to be considered alive?",
+        "label": 1
+    },
+    {
+        "sentences": "How does a car engine work?",
+        "label": 1
+    },
+    {
+        "sentences": "In what ways do you think the current generation is different from your generation?",
+        "label": 1
+    },
+    {
+        "sentences": "Given unlimited resources, how would you go about making the world a better place?",
+        "label": 1
+    },
+    {
+        "sentences": "What would be in a playground made for adults?",
+        "label": 1
+    },
+    {
+        "sentences": "What is your “happy place” like?",
+        "label": 1
+    },
+    {
+        "sentences": "What would be the most significant advantages and disadvantages of humans colonizing a different planet?",
+        "label": 1
+    },
+    {
+        "sentences": "Why are humans so driven to find answers to mysteries?",
+        "label": 1
+    },
+    {
+        "sentences": "What’s the funniest criminal misadventure story you’ve heard?",
+        "label": 1
+    },
+    {
+        "sentences": "If you had $200,000 to spend on a party, how would you spend the money?",
+        "label": 1
+    },
+    {
+        "sentences": "How will phones change in the future?",
+        "label": 1
+    },
+    {
+        "sentences": "If you had enough money to never work, what your typical day look like?",
+        "label": 1
+    },
+    {
+        "sentences": "How could humanity go about colonizing other planets?",
+        "label": 1
+    },
+    {
+        "sentences": "What do you think TV shows in 30 years will be like?",
+        "label": 1
+    },
+    {
+        "sentences": "What would a car specially designed for you look and be like?",
+        "label": 1
+    },
+    {
+        "sentences": "What makes you who you are?",
+        "label": 1
+    },
+    {
+        "sentences": "What is the funniest true story you’ve heard?",
+        "label": 1
+    },
+    {
+        "sentences": "How would you handle integrating someone who had been frozen for 100 years into society?",
+        "label": 1
+    },
+    {
+        "sentences": "Why do you think that humans find other animals’ babies cute?",
+        "label": 1
+    },
+    {
+        "sentences": "How did your country’s most significant historical moments change the fabric of society?",
+        "label": 1
+    },
+    {
+        "sentences": "In what ways do you sabotage yourself?",
+        "label": 1
+    },
+    {
+        "sentences": "How could your local government improve your town or city?",
+        "label": 1
+    },
+    {
+        "sentences": "Why do conspiracy theories appeal to so many people?",
+        "label": 1
+    },
+    {
+        "sentences": "What makes you like or dislike a person?",
+        "label": 1
+    },
+    {
+        "sentences": "What are some of the limitations of capitalism?",
+        "label": 1
+    },
+    {
+        "sentences": "What would the best amusement park in the world look like?",
+        "label": 1
+    },
+    {
+        "sentences": "What are some of society’s unwritten rules?",
+        "label": 1
+    },
+    {
+        "sentences": "How does your body and mind react to stress?",
+        "label": 1
+    },
+    {
+        "sentences": "What are your top 3 rules for navigating life?",
+        "label": 1
+    },
+    {
+        "sentences": "How does your favorite memory play out?",
+        "label": 1
+    }
+]
