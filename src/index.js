@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
-import { OpenEndedQuestion } from './openEndedQuestion';
+import { OpenEndedQuestion } from './openEndedQuestion2';
 
 ReactDOM.render(
   <React.StrictMode>

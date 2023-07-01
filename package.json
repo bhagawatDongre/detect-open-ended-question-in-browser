@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "lodash": "^4.17.21",
+    "natural": "^6.5.0",
     "natural-synaptic": "^1.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
